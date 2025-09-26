@@ -1,4 +1,4 @@
-## **Laravel School Management System** 
+## **SmartSchool Management System** 
 
 **SmartSchool** is developed for educational institutions like schools and colleges built on Laravel 8
 
