@@ -1,6 +1,6 @@
 ## **Laravel School Management System** 
 
-**LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
+**SmartSchool** is developed for educational institutions like schools and colleges built on Laravel 8
 
 **SCREENSHOTS** 
 
@@ -119,5 +119,5 @@ If you discover a security vulnerability within LAV_SMS, please send an e-mail t
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
 
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
+### **Contact [Wolfgang Pascal]**
+- Phone : +255740549734
